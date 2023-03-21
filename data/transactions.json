@@ -1,0 +1,38 @@
+{
+    "Bankrekening": [
+        {
+            "from/to": "KoningAli",
+            "amount": 10
+        },
+        {
+            "from/to": "KoningAli",
+            "amount": 100
+        },
+        {
+            "from/to": "KoningAli",
+            "amount": -100
+        },
+        {
+            "from/to": "KoningAli",
+            "amount": -20
+        },
+        {
+            "from/to": "KoningAli",
+            "amount": -20
+        },
+        {
+            "from/to": "KoningAli",
+            "amount": -20
+        }
+    ],
+    "ZZP-Rekening": [
+        {
+            "from/to": "Bedrijf X",
+            "amount": 10000
+        },
+        {
+            "from/to": "Bedrijf Z",
+            "amount": -500
+        }
+    ]
+}
